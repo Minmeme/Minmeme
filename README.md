@@ -5,6 +5,5 @@
 
 ## Languages and Tools:
 - Python 
-- HTML
 - C ,C++
 - Ros Noetic
