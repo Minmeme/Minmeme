@@ -6,4 +6,3 @@
 ## Languages and Tools:
 - Python 
 - C ,C++
-- Ros Noetic
